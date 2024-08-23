@@ -11,9 +11,11 @@
 
 <h3 align="center">a final-year B.Tech student in Computer Science and Engineering at GLA University. My passion lies in building visually appealing and functional applications . I am always eager to learn, explore new ideas, and collaborate on innovative projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samridhi1901&label=Profile%20views&color=0e75b6&style=flat" alt="samridhi1901" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbaliyan7&label=Profile%20views&color=0e75b6&style=flat" alt="anuragbaliyan7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samridhi1901" alt="samridhi1901" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🔭 I’m currently working **on various projects that enhance my skills in full stack development.**
 
